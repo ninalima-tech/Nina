@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="nome">Nome</label>
+        <input type="text" name="nome" id="nome"> <br><br>
+        <label for="feedback">feedback</label> 
+        <textarea name="feedback" id="feedback" cols="50" rows="5"></textarea> 
+        <br><br>
+        <br><br>
+        <label for="escolaridade">Escolaridade</label>
+        <br><br>
+        <input type="radio" name="escolaridade" id="" value="ensino-fundamental">
+       <label for="ensino-medio">ensino fundamental completo</label>
+        <input type="radio" name="escolaridade" id="" value="ensino-medio">
+        <label for="ensino-medio">ensino medio completo</label>
+        <input type="radio" name="escolaridade" id="superior completo">
+        <label for="superior completo">superior completo</label>
+        <br><br>
+        <label for="email">email</label>
+        <input type="text" name="email" id="">
+        <br><br>
+        <input type="button" value="enviar">
+         
+      </form>
+    
+</body>
+</html>
