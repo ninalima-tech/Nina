@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu currículo</title>
+</head>
+<body>
+    <h1>Sobre mim</h1>
+    <p>Educadora dedicada com 7 anos de experiência em Educação Infantil e projetos bilíngues sociais e ensino-aprendizagem através da tecnologia.
+    </p>
+<div></div>
+    <h2>Especialista em:</h2>
+    <p>Pedagogia: Planejamento, execução e avaliação de atividades pedagógicas, priorizando o desenvolvimento integral das crianças.
+        Educação Bilíngue: Criação de ambientes imersivos e significativos para o aprendizado de línguas estrangeiras desde a infância.
+        Tecnologias Educacionais: Integração de ferramentas digitais para otimizar o processo de ensino e aprendizagem, tornando-o mais dinâmico e engajador.
+        Inteligência Artificial: Exploração do potencial da IA na educação para personalizar o aprendizado, oferecer feedback individualizado e promover a inclusão.</p>
+<div></div>
+    <h3>Busco oportunidades desafiadoras em:</h3>
+    <p>Instituições de ensino que valorizam a inovação e a qualidade da educação.
+        Projetos que visam promover a inclusão e a equidade na educação.
+        Empresas que desenvolvem soluções tecnológicas para o setor educacional.
+        
+        Acredito no poder transformador da educação e me dedico a contribuir para a construção de um futuro mais justo e promissor para todas as crianças.
+        </p>
+    <hr>
+</body>
+</html>
