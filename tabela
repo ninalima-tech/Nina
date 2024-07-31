@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrupamento e tabela</title>
+    
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td>Segunda-feira</td>
+            <td>Terça-feira</td>
+            <td>Quarta-feira</td>
+            <td>Quinta-feira</td>
+            <td>Sexta-feira</td>
+            <td>Sábado</td>
+            <td>Domingo</td>
+        </tr>
+        <tr>
+            <td>Semana 1</td>
+         
+        </tr>
+        <tr>
+            <td>Semana 2</td>
+          
+        </tr>
+        <tr>
+            <td>Semana 3</td>
+        
+        </tr>
+        <tr>
+            <td>Semana 4</td>
+         
+        </tr>
+        <tr>
+            <td>Semana 5</td>
+        
+        </tr>
+       
+    </table>
+</body>
+</html>
