@@ -1,0 +1,36 @@
+body { 
+    background-color: #dabc9a ;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(24, 19, 29);
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+section h2 {
+    font-size: 23px;
+
+}
+
+
+.content-image{
+    width: 500px;
+}
+
+section {
+    color: #502d10;
+}
+
+header { 
+    background-color: #5caa6d;
+    padding: 5px;
+    border: 10px
+    
+
+}
+.icone1 {
+    width: 100px;
+}
